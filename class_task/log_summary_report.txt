@@ -1,0 +1,6 @@
+Log Summary Report
+===================
+Total Lines: 0
+ERROR: 0
+WARNING: 0
+INFO: 0
