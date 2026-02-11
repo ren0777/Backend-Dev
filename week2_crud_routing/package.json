@@ -1,0 +1,17 @@
+{
+  "name": "week2_crud_routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "put.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon put.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
